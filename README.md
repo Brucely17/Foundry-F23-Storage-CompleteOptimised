@@ -16,7 +16,7 @@ This is a project regarding funding to the smartcontract owner where he can only
 ## Quickstart
 
 ```
-git clone https://github.com/Cyfrin/foundry-fund-me-f23
+git clone https://github.com/Brucely17/Foundry-F23-Storage-CompleteOptimised.git
 cd foundry-fund-me-f23
 forge build
 ```
